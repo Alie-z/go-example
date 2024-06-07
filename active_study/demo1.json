@@ -1,0 +1,14 @@
+{
+    "event'": {
+        "header": {
+            "namespace": "ai.dueros.device_interface.extensions.iov_aigc",
+            "name": "SubmitQuery",
+            "messageld": "123"
+        },
+        "payload": {
+            "gcType": "DEFAULT",
+            "query": "画一幅画",
+            "subSceneld": "inspired_painting"
+        }
+    }
+}

@@ -1,0 +1,1208 @@
+{
+    "version": "v2.0",
+    "session": {
+        "new": true,
+        "sessionId": "cd4ef87a-0206-4034-a270-358dcc10127a"
+    },
+    "context": {
+        "System": {
+            "user": {
+                "userInfo": {
+                    "location": {
+                        "geo": {
+                            "bd09ll": {
+                                "longitude": 116.4133837,
+                                "latitude": 39.91092455
+                            },
+                            "wgs84": {
+                                "longitude": 116.4133837,
+                                "latitude": 39.91092455
+                            },
+                            "bd09mc": {
+                                "longitude": 12959219.600320252,
+                                "latitude": 4825334.6415726649
+                            }
+                        },
+                        "city": "北京市",
+                        "district": "东城区",
+                        "countryCode": "0",
+                        "cityCode": "131",
+                        "province": "北京市"
+                    },
+                    "realNameAuthStatus": 0,
+                    "realNameIsAdult": false
+                }
+            },
+            "application": {
+                "applicationId": "6d03aff0-de11-7918-d5e3-d047f52c36c5",
+                "botConfig": {
+                    "botName": "6d03aff0-de11-7918-d5e3-d047f52c36c5",
+                    "contentAttributes": {
+                        "client_id": "nYG5ff0qkxMNE6aRaqfZGeZBXuRCXhEp",
+                        "version_id": "wx",
+                        "multi_modal": "true",
+                        "aichat_need_speak": "1"
+                    }
+                },
+                "config": {
+                    "contentAttributes": {
+                        "client_id": "nYG5ff0qkxMNE6aRaqfZGeZBXuRCXhEp",
+                        "version_id": "wx",
+                        "multi_modal": "true",
+                        "aichat_need_speak": "1"
+                    }
+                },
+                "debug": {
+                    "mockSystemTime": "",
+                    "enableGlobalTrace": false,
+                    "isDebug": true
+                }
+            },
+            "device": {
+                "deviceId": "bcb69ea30a051d8d74ed4691a8432ae3",
+                "originalDeviceId": "v_wangyinlong01_debug_xiaoguo_monitor",
+                "supportedInterfaces": {
+                    "TextInput": {},
+                    "VoiceInput": {
+                        "enableVoiceWave": false
+                    },
+                    "VoiceOutput": {},
+                    "PlayController": {},
+                    "AudioPlayer": {},
+                    "Alerts": {},
+                    "Screen": {
+                        "supportPortrait": false
+                    },
+                    "SpeakerController": {},
+                    "System": {},
+                    "ScreenExtendedCard": {},
+                    "Display": {},
+                    "BotAppSdk": {
+                        "h5App": true,
+                        "aiApp": false,
+                        "cloudApp": false,
+                        "weixinApp": false,
+                        "swanApp": false,
+                        "aliApp": false,
+                        "canOpenCamera": false,
+                        "allowCloseCameraSpeech": true,
+                        "canEnableWakeup": false,
+                        "canTurnOffHardwareAcceleration": false,
+                        "closeInstallDialog": false,
+                        "supportExternalApp": false,
+                        "allowCloseAvailableCheck": false
+                    }
+                },
+                "userDeviceId": "3cb50feca3649d3bfb11bb59186564e4",
+                "TVControl": {
+                    "controlType": "DCSControl",
+                    "controlStatus": 0
+                },
+                "deviceIPAddress": "220.181.38.119",
+                "didpTokenEncrypted": "v03qW4OaBWfWL6+DotlEm3oI3747cvYDMMi6YpBie7vsE+s0JO5pmt1Xahv5KMb4xBDDIFbL6v404XfARVGNjw==",
+                "enableBusinessRight": false
+            },
+            "apiAccessToken": "asvmiUe/M+1Qk1io8soYCuhZjF21SMbcb03nprSAVdzsM4nzlNnzrjwMopgKqovYxOKu/1ammEt8CQCv9yZFeU0568QEgdORj5VP82tL7e63J+HRJ8+f/i5BzMBZZ/eejWMduKXS3npsA+6G8kO69uUsAKeUeJVEmgkbX/RwPUnSrSGr56bgYmJ52C7Gkk9ybgsEahLCZMF1IXG8G6ViaDmOh96bJvKE+a/tgfbPxousLwtTkvRtoQypy7wweOgNu2k3ZD3b2iTURDsVlTxqebuqHqmNwagRQ9wiW/hEEYMB+cIlROEziZE9dC/X0mthsivM0Pf4+vRg4V4wgV9VDgvY/ln015OUaBFMhubFgock7LItbUYTauXUE8k4xHSPJ+BjXbCP3Yi9jij3TONO9GTNhY+jrWPBO20jbUO+mDuapgoOYsxvKn5byvmxuoKW",
+            "apiEndPoint": "http://dueros-h2-debug.baidu.com",
+            "sample": {
+                "commonSampleId": "5430_6874_7017_7027_6966_6996_4509_5404_504229_6803_503146_6933_6935_7001_5407_5164_7007_6993_5826_6584_6944_6987_6964_6814_7034"
+            },
+            "avaliableApplicationIds": [
+                "0133bc09-8677-6298-f735-0eeb83ece241",
+                "07566cb1-6618-c0d6-b0c4-b006e4004212",
+                "08bf23b4-a69d-8f45-6ec9-f067f57e3cb6",
+                "17a7c3b1-65de-fe5e-11d2-cf41676fc6df",
+                "1a8e6f0d-d036-7fad-61ef-0c772344ac08",
+                "1c9016ac-cfef-7d68-e149-ecf8e6202d93",
+                "1d3d217d-8c5c-191e-846b-f81f26632945",
+                "1eaf29e4-1249-c54c-4229-a7a92cd7c982",
+                "2972f570-6aad-6a4c-0de3-bf9b5e291035",
+                "2fd27afe-3f33-4b1c-0ed2-7c2b5aeab03f",
+                "35b3d0cd-39e7-e61a-0663-eaac35f12799",
+                "4a41d37f-532d-32eb-6c36-c2f89d9d12db",
+                "5b89b553-e47b-dab1-2bbf-bf75dfa77c6e",
+                "5dd40e83-fa46-7c78-7dc8-604f4e783048",
+                "60a0e79e-9377-b12c-97d9-00c42a8d00de",
+                "6d03aff0-de11-7918-d5e3-d047f52c36c5",
+                "8a0e6386-4596-44d5-e3f0-aeee5deb8bc7",
+                "8ac66e70-d3dd-2aef-6fb9-f86bf2be0085",
+                "9b1180f3-da4a-a597-3f85-d3c8d991f7d3",
+                "a1049e7e-dbf2-1ef4-9adf-3a5985eec0f4",
+                "a89c3c91-0d13-369b-e677-6d53133daf0f",
+                "ai.dueros.bot.flight",
+                "ai.dueros.bot.text_joke",
+                "ai.dueros.bot.ui_voice_interaction",
+                "ai.dueros.ext.intervene",
+                "ai.dueros.ext.multi_query",
+                "ai.dueros.ext.rus",
+                "aries_general",
+                "audio_live",
+                "audio_music",
+                "audio_unicast",
+                "ccd6fcad-4015-a70b-adf3-839c16a22fa7",
+                "d98a5190-ce03-ccaf-1564-b2e6c2b14802",
+                "duer_weather",
+                "e0b259db-1e15-bdc3-05b0-686abec76f88",
+                "e46704f1-a53d-f7c5-a1b4-c5592604be2b",
+                "f8215c3c-8f0e-c312-840b-346089c94dfb",
+                "iov_video_on_demand"
+            ],
+            "extension": {
+                "realUserId": "7276630409",
+                "realDeviceId": "v_wangyinlong01_debug_xiaoguo_monitor"
+            },
+            "hasGotDeviceUsers": false
+        },
+        "AudioPlayer": {
+            "token": "",
+            "offsetInMilliSeconds": 0,
+            "playActivity": "IDLE"
+        },
+        "VideoPlayer": {
+            "token": "",
+            "offsetInMilliseconds": 0,
+            "playerActivity": "IDLE",
+            "applicationId": ""
+        },
+        "Screen": {
+            "token": ""
+        },
+        "BotAppSdk": {
+            "apps": [
+                {
+                    "packageName": "",
+                    "state": "",
+                    "url": ""
+                }
+            ]
+        },
+        "AigcContentState": {
+            "subSceneId": "scene_type=",
+            "userInfo": {
+                "userID": "",
+                "userName": ""
+            },
+            "extra": "",
+            "personaContent": "你是一位知识问答助手，具备查询最新准确信息的能力。请以林黛玉的对话风格回答用户的问题，你的回答需结合林黛玉的性格特征和生平事迹，展现多愁善感，喜欢阅读文学、擅长诗词吟唱的智慧。所有答案的开头语和结尾总结词、对主观问题（如情感和心理建议）的看法、自己发生的事情，应该以林黛玉的口吻叙述简短有趣的评价。对话风格仅增加趣味性，对客观问题的回答务必不影响和事实的准确性、实时性。回答整体的长度为适中（基于事实的正常回答和进一步恰当有效的解释）。"
+        }
+    },
+    "request": {
+        "query": {
+            "type": "TEXT",
+            "original": "介绍一下香港",
+            "rewritten": "介绍一下香港",
+            "asrRawResult": "介绍一下香港"
+        },
+        "dialogState": "STARTED",
+        "intents": [
+            {
+                "name": "ai.dueros.common.default_intent",
+                "score": 100,
+                "confirmationStatus": "NONE",
+                "slots": {}
+            }
+        ],
+        "queryInfo": {
+            "sn": "caf8e432-1718-11ef-9396-7cd30a698364"
+        },
+        "queryAnalysis": {
+            "domains": [
+                {
+                    "domainName": "834b1282-af14-90ab-8ca8-ffdb873d0a17",
+                    "intents": [
+                        {
+                            "name": "834b1282-af14-90ab-8ca8-ffdb873d0a17_normal_info_yt",
+                            "score": 100,
+                            "slots": {
+                                "province": {
+                                    "name": "province",
+                                    "value": "香港",
+                                    "values": [
+                                        "香港"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "香港",
+                                            "originalText": "香港",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    ],
+                    "domainScore": 30
+                },
+                {
+                    "domainName": "ai.dueros.user_profile",
+                    "intents": [
+                        {
+                            "name": "ai.dueros.user_profile.age.context",
+                            "score": 100,
+                            "slots": {
+                                "age": {
+                                    "name": "age",
+                                    "value": "1",
+                                    "values": [
+                                        "1"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "1",
+                                            "originalText": "一",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    ],
+                    "domainScore": 30
+                },
+                {
+                    "domainName": "35b3d0cd-39e7-e61a-0663-eaac35f12799",
+                    "intents": [
+                        {
+                            "name": "FAIL_ACTION",
+                            "score": 100,
+                            "slots": {
+                                "early_return_trigger": {
+                                    "name": "early_return_trigger",
+                                    "value": "0",
+                                    "values": [
+                                        "0"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "0",
+                                            "originalText": "0",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                },
+                                "if_model_ret_nlu": {
+                                    "name": "if_model_ret_nlu",
+                                    "value": "7645723",
+                                    "values": [
+                                        "7645723"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "7645723",
+                                            "originalText": "7645723",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                },
+                                "iov_bot_id": {
+                                    "name": "iov_bot_id",
+                                    "value": "1224609",
+                                    "values": [
+                                        "1224609"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "1224609",
+                                            "originalText": "1224609",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                },
+                                "unit_from_who": {
+                                    "name": "unit_from_who",
+                                    "value": "template",
+                                    "values": [
+                                        "template"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "template",
+                                            "originalText": "template",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                },
+                                "user_passby_poi": {
+                                    "name": "user_passby_poi",
+                                    "value": "normalized_word=(NERL_PLUS_LOC_ROOT)>香港特别行政区&begin=4&length=2",
+                                    "values": [
+                                        "normalized_word=(NERL_PLUS_LOC_ROOT)>香港特别行政区&begin=4&length=2"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "normalized_word=(NERL_PLUS_LOC_ROOT)>香港特别行政区&begin=4&length=2",
+                                            "originalText": "香港",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "name": "DomainDetectSuccess",
+                            "score": 100,
+                            "slots": {
+                                "domain": {
+                                    "name": "domain",
+                                    "value": "unknown",
+                                    "values": [
+                                        "unknown"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "unknown",
+                                            "originalText": "unknown",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                },
+                                "early_return_trigger": {
+                                    "name": "early_return_trigger",
+                                    "value": "0",
+                                    "values": [
+                                        "0"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "0",
+                                            "originalText": "0",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                },
+                                "iov_bot_id": {
+                                    "name": "iov_bot_id",
+                                    "value": "domainDetect",
+                                    "values": [
+                                        "domainDetect"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "domainDetect",
+                                            "originalText": "domainDetect",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                },
+                                "score": {
+                                    "name": "score",
+                                    "value": "1",
+                                    "values": [
+                                        "1"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "1",
+                                            "originalText": "1",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                },
+                                "status_code": {
+                                    "name": "status_code",
+                                    "value": "0",
+                                    "values": [
+                                        "0"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "0",
+                                            "originalText": "0",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                },
+                                "time_cost": {
+                                    "name": "time_cost",
+                                    "value": "66",
+                                    "values": [
+                                        "66"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "66",
+                                            "originalText": "66",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    ],
+                    "domainScore": 81
+                },
+                {
+                    "domainName": "1d3d217d-8c5c-191e-846b-f81f26632945",
+                    "intents": [
+                        {
+                            "name": "ClassificationSuccess",
+                            "score": 100,
+                            "slots": {
+                                "domain": {
+                                    "name": "domain",
+                                    "value": "unknown",
+                                    "values": [
+                                        "unknown"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "unknown",
+                                            "originalText": "unknown",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                },
+                                "early_return_trigger": {
+                                    "name": "early_return_trigger",
+                                    "value": "0",
+                                    "values": [
+                                        "0"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "0",
+                                            "originalText": "0",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                },
+                                "iov_bot_id": {
+                                    "name": "iov_bot_id",
+                                    "value": "wenxinDomainClf",
+                                    "values": [
+                                        "wenxinDomainClf"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "wenxinDomainClf",
+                                            "originalText": "wenxinDomainClf",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                },
+                                "score": {
+                                    "name": "score",
+                                    "value": "0.99887675046921",
+                                    "values": [
+                                        "0.99887675046921"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "0.99887675046921",
+                                            "originalText": "0.99887675046921",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                },
+                                "status_code": {
+                                    "name": "status_code",
+                                    "value": "0",
+                                    "values": [
+                                        "0"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "0",
+                                            "originalText": "0",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                },
+                                "time_cost": {
+                                    "name": "time_cost",
+                                    "value": "131",
+                                    "values": [
+                                        "131"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "131",
+                                            "originalText": "131",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    ],
+                    "domainScore": 81
+                },
+                {
+                    "domainName": "07566cb1-6618-c0d6-b0c4-b006e4004212",
+                    "intents": [
+                        {
+                            "name": "ClassificationSuccess",
+                            "score": 100,
+                            "slots": {
+                                "domain": {
+                                    "name": "domain",
+                                    "value": "unknown",
+                                    "values": [
+                                        "unknown"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "unknown",
+                                            "originalText": "unknown",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                },
+                                "early_return_trigger": {
+                                    "name": "early_return_trigger",
+                                    "value": "0",
+                                    "values": [
+                                        "0"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "0",
+                                            "originalText": "0",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                },
+                                "iov_bot_id": {
+                                    "name": "iov_bot_id",
+                                    "value": "wenxinDomainClf",
+                                    "values": [
+                                        "wenxinDomainClf"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "wenxinDomainClf",
+                                            "originalText": "wenxinDomainClf",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                },
+                                "score": {
+                                    "name": "score",
+                                    "value": "0.99887675046921",
+                                    "values": [
+                                        "0.99887675046921"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "0.99887675046921",
+                                            "originalText": "0.99887675046921",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                },
+                                "status_code": {
+                                    "name": "status_code",
+                                    "value": "0",
+                                    "values": [
+                                        "0"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "0",
+                                            "originalText": "0",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                },
+                                "time_cost": {
+                                    "name": "time_cost",
+                                    "value": "131",
+                                    "values": [
+                                        "131"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "131",
+                                            "originalText": "131",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    ],
+                    "domainScore": 81
+                },
+                {
+                    "domainName": "08bf23b4-a69d-8f45-6ec9-f067f57e3cb6",
+                    "intents": [
+                        {
+                            "name": "ClassificationSuccess",
+                            "score": 100,
+                            "slots": {
+                                "domain": {
+                                    "name": "domain",
+                                    "value": "unknown",
+                                    "values": [
+                                        "unknown"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "unknown",
+                                            "originalText": "unknown",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                },
+                                "early_return_trigger": {
+                                    "name": "early_return_trigger",
+                                    "value": "0",
+                                    "values": [
+                                        "0"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "0",
+                                            "originalText": "0",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                },
+                                "iov_bot_id": {
+                                    "name": "iov_bot_id",
+                                    "value": "wenxinDomainClf",
+                                    "values": [
+                                        "wenxinDomainClf"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "wenxinDomainClf",
+                                            "originalText": "wenxinDomainClf",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                },
+                                "score": {
+                                    "name": "score",
+                                    "value": "0.99887675046921",
+                                    "values": [
+                                        "0.99887675046921"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "0.99887675046921",
+                                            "originalText": "0.99887675046921",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                },
+                                "status_code": {
+                                    "name": "status_code",
+                                    "value": "0",
+                                    "values": [
+                                        "0"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "0",
+                                            "originalText": "0",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                },
+                                "time_cost": {
+                                    "name": "time_cost",
+                                    "value": "131",
+                                    "values": [
+                                        "131"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "131",
+                                            "originalText": "131",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    ],
+                    "domainScore": 81
+                },
+                {
+                    "domainName": "universal_search",
+                    "intents": [
+                        {
+                            "name": "universal_search.baike",
+                            "score": 90,
+                            "slots": {
+                                "key_word": {
+                                    "name": "key_word",
+                                    "value": "香港",
+                                    "values": [
+                                        "香港"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "香港",
+                                            "originalText": "香港",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "name": "universal_search.baike",
+                            "score": 100,
+                            "slots": {}
+                        }
+                    ],
+                    "domainScore": 81
+                },
+                {
+                    "domainName": "recommendation",
+                    "intents": [
+                        {
+                            "name": "recommendation.keyword",
+                            "score": 0,
+                            "slots": {
+                                "keyword_list": {
+                                    "name": "keyword_list",
+                                    "value": "[\"介绍一下\",\"香港\"]",
+                                    "values": [
+                                        "[\"介绍一下\",\"香港\"]"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "[\"介绍一下\",\"香港\"]",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    ],
+                    "domainScore": 30
+                },
+                {
+                    "domainName": "3ee60c6c-614c-0deb-6e42-391f0a6ba28d",
+                    "intents": [
+                        {
+                            "name": "ai.dueros.common.ori_query_intent",
+                            "score": 100,
+                            "slots": {
+                                "query": {
+                                    "name": "query",
+                                    "value": "介绍一下香港",
+                                    "values": [
+                                        "介绍一下香港"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "介绍一下香港",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    ],
+                    "domainScore": 30
+                },
+                {
+                    "domainName": "c446a80e-cb80-2d69-e545-782e275d961e",
+                    "intents": [
+                        {
+                            "name": "ai.dueros.common.ori_query_intent",
+                            "score": 100,
+                            "slots": {
+                                "query": {
+                                    "name": "query",
+                                    "value": "介绍一下香港",
+                                    "values": [
+                                        "介绍一下香港"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "介绍一下香港",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    ],
+                    "domainScore": 30
+                },
+                {
+                    "domainName": "sys.dm.conversation",
+                    "intents": [
+                        {
+                            "name": "intent.conversation.speak_again",
+                            "score": 100,
+                            "slots": {
+                                "domain": {
+                                    "name": "domain",
+                                    "value": "universal_search",
+                                    "values": [
+                                        "universal_search"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "universal_search",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                },
+                                "intent": {
+                                    "name": "intent",
+                                    "value": "NON_INTENT",
+                                    "values": [
+                                        "NON_INTENT"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "NON_INTENT",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                },
+                                "nlg": {
+                                    "name": "nlg",
+                                    "value": "想了解点什么呢？能再说一次吗？",
+                                    "values": [
+                                        "想了解点什么呢？能再说一次吗？"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "想了解点什么呢？能再说一次吗？",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                },
+                                "ssa_confidence": {
+                                    "name": "ssa_confidence",
+                                    "value": "99",
+                                    "values": [
+                                        "99"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "99",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                },
+                                "state": {
+                                    "name": "state",
+                                    "value": "NON_STATE",
+                                    "values": [
+                                        "NON_STATE"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "NON_STATE",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                },
+                                "sys_tag": {
+                                    "name": "sys_tag",
+                                    "value": "nn_sys_conv_SPEAK_AGAIN_RAND_TERM",
+                                    "values": [
+                                        "nn_sys_conv_SPEAK_AGAIN_RAND_TERM"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "nn_sys_conv_SPEAK_AGAIN_RAND_TERM",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    ],
+                    "domainScore": 30
+                },
+                {
+                    "domainName": "sys.dm.query",
+                    "intents": [
+                        {
+                            "name": "intent.query.speak_again",
+                            "score": 100,
+                            "slots": {
+                                "lm_confidence": {
+                                    "name": "lm_confidence",
+                                    "value": "0",
+                                    "values": [
+                                        "0"
+                                    ],
+                                    "score": 0,
+                                    "type": "TEXT",
+                                    "analyses": [
+                                        {
+                                            "value": "0",
+                                            "qualifier": "POSITIVE"
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    ],
+                    "domainScore": 100
+                }
+            ],
+            "nluInfo": {
+                "termInfos": [
+                    {
+                        "term": "介绍",
+                        "rank": 2,
+                        "weight": 0.27626898884773257,
+                        "postag": "v"
+                    },
+                    {
+                        "term": "一",
+                        "rank": 1,
+                        "weight": 0.12075824290513993,
+                        "postag": "m"
+                    },
+                    {
+                        "term": "下",
+                        "rank": 1,
+                        "weight": 0.10985495150089264,
+                        "postag": "v"
+                    },
+                    {
+                        "term": "香港",
+                        "rank": 2,
+                        "weight": 0.4931178390979767,
+                        "postag": "ns"
+                    }
+                ],
+                "chunkInfos": [
+                    {
+                        "chunkType": "big_chunk_selection",
+                        "chunkNodes": [
+                            {
+                                "chunk": "介绍一下",
+                                "termOffset": 0,
+                                "termLength": 3,
+                                "signifiance": 0.5068821832537651,
+                                "signifianceLevel": 2
+                            },
+                            {
+                                "chunk": "香港",
+                                "termOffset": 3,
+                                "termLength": 1,
+                                "signifiance": 0.4931178390979767,
+                                "signifianceLevel": 2
+                            }
+                        ]
+                    },
+                    {
+                        "chunkType": "mediate_chunk_selection",
+                        "chunkNodes": [
+                            {
+                                "chunk": "介绍一下",
+                                "termOffset": 0,
+                                "termLength": 3,
+                                "signifiance": 0.5068821832537651,
+                                "signifianceLevel": 2
+                            },
+                            {
+                                "chunk": "香港",
+                                "termOffset": 3,
+                                "termLength": 1,
+                                "signifiance": 0.4931178390979767,
+                                "signifianceLevel": 2
+                            }
+                        ]
+                    },
+                    {
+                        "chunkType": "small_chunk_selection",
+                        "chunkNodes": [
+                            {
+                                "chunk": "介绍",
+                                "termOffset": 0,
+                                "termLength": 1,
+                                "signifiance": 0.27626898884773257,
+                                "signifianceLevel": 1
+                            },
+                            {
+                                "chunk": "一下",
+                                "termOffset": 1,
+                                "termLength": 2,
+                                "signifiance": 0.23061319440603257,
+                                "signifianceLevel": 1
+                            },
+                            {
+                                "chunk": "香港",
+                                "termOffset": 3,
+                                "termLength": 1,
+                                "signifiance": 0.4931178390979767,
+                                "signifianceLevel": 2
+                            }
+                        ]
+                    }
+                ],
+                "namedEntities": [
+                    {
+                        "name": "香港",
+                        "type": "2203",
+                        "confidence": 9.160609245300293
+                    }
+                ],
+                "chunkTree": [
+                    {
+                        "chunk": "介绍一下香港",
+                        "termOffset": 0,
+                        "termLength": 4,
+                        "signifiance": 1.0000000223517419,
+                        "signifianceLevel": 2,
+                        "tightLevel": -1,
+                        "childList": [
+                            1,
+                            6
+                        ]
+                    },
+                    {
+                        "chunk": "介绍一下",
+                        "termOffset": 0,
+                        "termLength": 3,
+                        "signifiance": 0.5068821832537651,
+                        "signifianceLevel": 2,
+                        "tightLevel": 2,
+                        "childList": [
+                            2,
+                            3
+                        ]
+                    },
+                    {
+                        "chunk": "介绍",
+                        "termOffset": 0,
+                        "termLength": 1,
+                        "signifiance": 0.27626898884773257,
+                        "signifianceLevel": 1,
+                        "tightLevel": -1
+                    },
+                    {
+                        "chunk": "一下",
+                        "termOffset": 1,
+                        "termLength": 2,
+                        "signifiance": 0.23061319440603257,
+                        "signifianceLevel": 1,
+                        "tightLevel": 2,
+                        "childList": [
+                            4,
+                            5
+                        ]
+                    },
+                    {
+                        "chunk": "一",
+                        "termOffset": 1,
+                        "termLength": 1,
+                        "signifiance": 0.12075824290513993,
+                        "signifianceLevel": 1,
+                        "tightLevel": -1
+                    },
+                    {
+                        "chunk": "下",
+                        "termOffset": 2,
+                        "termLength": 1,
+                        "signifiance": 0.10985495150089264,
+                        "signifianceLevel": 1,
+                        "tightLevel": -1
+                    },
+                    {
+                        "chunk": "香港",
+                        "termOffset": 3,
+                        "termLength": 1,
+                        "signifiance": 0.4931178390979767,
+                        "signifianceLevel": 2,
+                        "tightLevel": -1
+                    }
+                ]
+            }
+        },
+        "originalRequestType": "QUERY",
+        "type": "IntentRequest",
+        "requestId": "caf8e432-1718-11ef-9396-7cd30a698364_DCS-10-54-218-206-2025-0521102112_2#2_0",
+        "timestamp": "1716258072",
+        "dialogRequestId": "caf8e432-1718-11ef-9396-7cd30a698364",
+        "determined": true,
+        "asyncResponseId": "caf8e432-1718-11ef-9396-7cd30a698364_DCS-10-54-218-206-2025-0521102112_2"
+    }
+}
